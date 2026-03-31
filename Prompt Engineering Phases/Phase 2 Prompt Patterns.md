@@ -404,10 +404,3 @@ If A → B else → C
 > It is **how real AI systems are built**.
 
 ---
-
-# 🚀 Next Step
-
-Move to:
-👉 Phase 3 — AI System Design (RAG, Memory, Agents)
-
----
